@@ -1,6 +1,6 @@
 {
-  "name": "bilispider",
-  "version": "0.0.1",
+  "name": "bili-happy",
+  "version": "0.0.2",
   "description": "bilibili video download",
   "main": "./src/index.js",
   "bin": {

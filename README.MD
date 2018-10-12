@@ -1,6 +1,6 @@
 ## BiliBili 视频下载爬虫
 
-`npm -g install bilispider`
+`npm -g install bili-happy`
 
 #### 通用爬取
 
