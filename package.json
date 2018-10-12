@@ -1,0 +1,27 @@
+{
+  "name": "bilispider",
+  "version": "0.0.1",
+  "description": "bilibili video download",
+  "main": "./src/index.js",
+  "bin": {
+    "bilibili": "./src/index.js",
+    "bilibili-dance-hot": "./src/dance-hot.js"
+  },
+  "keywords": [
+    "bilibili",
+    "video",
+    "download"
+  ],
+  "author": "idzeir",
+  "homepage": "http://www.youtu.tv",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "fetch": "^1.1.0",
+    "inquirer": "^6.2.0",
+    "md5": "^2.2.1",
+    "single-line-log": "^1.1.2",
+    "xml2js": "^0.4.19"
+  }
+}
