@@ -1,9 +1,4 @@
-/*
- * @Author: iDzeir 
- * @Date: 2018-10-12 16:50:58 
- * @Last Modified by: iDzeir
- * @Last Modified time: 2018-10-12 17:02:41
- */
+#!/usr/bin/env node
 const fetch = require('fetch');
 const log = require('./commons/log');
 
